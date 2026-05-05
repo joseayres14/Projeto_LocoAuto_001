@@ -1,4 +1,4 @@
-#AutoLoco
+AutoLoco
 ----------------------------------------
 
 Autor: José Arthur Ayres Guimarães
