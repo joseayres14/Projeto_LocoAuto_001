@@ -81,6 +81,22 @@ body {
     font-size: 18px;
 }
 
+/* CONTADOR DE RESERVAS */
+#contadorReservas {
+    color: #2e7af4;
+    font-weight: bold;
+    font-size: 1.5rem;
+}
+
+.container h4 {
+    color: antiquewhite;
+}
+
+#ultimoVeiculo {
+    color: #76aff9;
+    font-weight: bold;
+}
+
 /* FOOTER */
 footer {
     background: #111;
